@@ -36,7 +36,7 @@ if (screen.width >= 768) {
 			//apiPath: "https://live2d.fghrsh.net/api/",
 			//cdnPath: "https://cdn.jsdelivr.net/gh/fghrsh/live2d_api/"
 			//cdnPath: "https://cdn.jsdelivr.net/gh/BlueSky01st/live2d_api@v1.1/"
-			cdnPath: "https://cdn.jsdelivr.net/gh/SuperPung/super_live2d_api@v1.3/"
+			cdnPath: "https://cdn.jsdelivr.net/gh/SuperPung/super_live2d_api@v1.4/"
 		});
 	});
 }
